@@ -1,3 +1,3 @@
 # ATEC
-## linha1
-### linha3
+* linha1
+* linha3
