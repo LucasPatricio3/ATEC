@@ -5,6 +5,8 @@ class Entity:
     description = ""
 
 class LootPool:
-    def CreateLootPool(entities:Entity):
+    name = ""
+    def CreateLootPool(Name: str, entities: Entity):
+        name = Name
         
         pass
