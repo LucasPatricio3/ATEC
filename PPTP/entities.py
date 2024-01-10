@@ -4,9 +4,13 @@ class Entity:
     name = ""
     description = ""
 
+class Item(Entity):
+    weight = 0
+
 class LootPool:
     name = ""
-    def CreateLootPool(Name: str, entities: Entity):
+    entities = []
+
+    def CreateLootPool(Name: str, Entities: Entity):
         name = Name
-        
-        pass
+        entities = Entities
