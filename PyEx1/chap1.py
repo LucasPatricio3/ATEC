@@ -1,7 +1,6 @@
 #x: x = input(f"x {y}")
 
 def C1Switch(num: int):
-    print(num)
     match num:
         case 1:
             HelloWorld()
@@ -16,13 +15,18 @@ def C1Switch(num: int):
 def HelloWorld():
     print("Hello World!")
 
- #Exercicio 2
-def Soma():
-    num1 : float = input("Introduza o primeiro número: ")
-    num2 : float = input("Introduza o segundo número: ")
-    print(f"A Soma dos números é {num1 + num2}")
+#Exercicio 2
+def ImprimeNum():
+    num = input("Introduza um número:")
+    print(f" O número informado foi {num}")
 
 #Exercicio 3
+def Soma():
+    num1  = float(input("Introduza o primeiro número: "))
+    num2 = float(input("Introduza o segundo número: "))
+    print(f"A Soma dos números é {num1 + num2}")
+
+#Exercicio 4
 def Media():
     numDeValores = int(input(f"Introduza o número de valores que quer fazer a média: "))
     valores = []
@@ -40,4 +44,9 @@ def Media():
 
     print(f"A Média dos números é {media}")
 
+#Exercicio 5
+def MetrosParaCentímetros():
+    metros = input("Introduz a quantidade de metros:")
+    print(f"O número de metros que introduziu equivale a {metros*100} centímetros.")
 
+#
