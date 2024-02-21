@@ -1,6 +1,9 @@
 import os
 import chap1 as c1
 import chap2 as c2
+import agendaContacto as aC
+
+#https://wiki.python.org.br/ListaDeExercicios
 
 functionDictionary = {
     #Capitulo 1
@@ -28,14 +31,24 @@ functionDictionary = {
     "2/3" : c2.Sexo,
     "2/4" : c2.isVogal,
     "2/5" : c2.MediaAprova,
-
+    "2/6" : c2.MaiorDeTres,
+    "2/7" : c2.MaiorMenorDeTres,
+    "2/8" : c2.MenorDeTres,   
+    "2/9" : c2.OrdenDecrescente,      
+    "2/10" : c2.EstudaHoras,
+    "2/11" : c2.SalarioAjuste,
+    "2/12" : c2.DescontoIR,
+    "2/13" : c2.DiaSemana,
 }
 
 def main():
     while True:
         os.system('cls')
-        capNum = int(input("Digite o número do capítulo:"))
+        capNum = input("Digite o número do capítulo:")
         exNum = int(input("Digite o número do exercício:"))
+
+        if capNum.__contains__("Ex"):
+            ExtraFunctions(exNum)
 
         if functionDictionary.__contains__(f"{capNum}/{exNum}"):
             print("\n" + functionDictionary[f"{capNum}/{exNum}"]())
@@ -43,6 +56,14 @@ def main():
             print("\nO capitulo ou exercício que introduziu não existe.")
 
         input("\nPrima qualquer tecla para continuar.")
+
+def ExtraFunctions(exNum: int):
+    match exNum:
+        case 1:
+            contactos = aC.AgendaContactos
+            contactos.main(contactos)
+
+
 
 main()
 
