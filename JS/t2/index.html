@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Minha Página</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="top">
+            <img src="ATEC.png" alt="Imagem" style="max-height: 150px;">
+            <h1 id="head1" style="font-size: 32px;">Input vai aparecer aqui*</h1>
+        </div>
+        <div id="left">
+            <form id="formul">
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required><br>
+    
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br>
+    
+                <label for="num">Número de Aluno:</label>
+                <input type="text" id="num" name="num" required><br>
+    
+                <label for="curso">Curso</label>
+                <input type="text" id="curso" name="curso" required><br>
+    
+                <label for="classific">Classificação de 1 a 5</label>
+                <input type="range" id="classific" name="classific" min="1" max="5"><br>
+            </form>
+            <button onclick="escreverTexto()">Escrever Texto</button>
+        </div>
+        <div id="right">
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\bin\Debug\net8.0\C#Ex.exe
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\bin\Debug\net8.0\C#Ex.deps.json
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\bin\Debug\net8.0\C#Ex.runtimeconfig.json
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\bin\Debug\net8.0\C#Ex.dll
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\bin\Debug\net8.0\C#Ex.pdb
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.AssemblyInfo.cs
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.csproj.CoreCompileInputs.cache
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.sourcelink.json
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.dll
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\refint\C#Ex.dll
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.pdb
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\C#Ex.genruntimeconfig.cache
+C:\Users\silva\Documents\GitHub\ATEC\.NET\C#Ex\C#Ex\obj\Debug\net8.0\ref\C#Ex.dll
