@@ -21,9 +21,9 @@ namespace TurnBattleProject.Utilities
 
             this.FlatStyle = FlatStyle.Flat;
             this.FlatAppearance.BorderSize = 0;
-            this.MouseEnter += delegate(object sender, EventArgs e) { SetBackground(onHoverState); };
-            this.MouseLeave += delegate(object sender, EventArgs e) { SetBackground(defaultState); };
-            this.MouseClick += delegate(object sender, MouseEventArgs e) { SetBackground(pressedState); };
+            this.MouseEnter += delegate(object? sender, EventArgs e) { SetBackground(onHoverState); };
+            this.MouseLeave += delegate(object? sender, EventArgs e) { SetBackground(defaultState); };
+            this.MouseClick += delegate(object? sender, MouseEventArgs e) { SetBackground(pressedState); };
         }
 
         internal void MapBitmaps(Bitmap defaultState, Bitmap onHoverState, Bitmap pressedState)
