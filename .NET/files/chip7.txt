@@ -1,0 +1,33 @@
+ATI Radeon 7500&120&&10&&&Lisboa
+ATI Radeon 7500&120&&12&&&Porto
+ATI Radeon 7500&120&&13&&&Setúbal
+ATI Radeon 7500&120&&10&&&Faro
+ATI Radeon 8500&120&&60&&&Lisboa
+ATI Radeon 4500&150&&42&&&Porto
+ATI Radeon 4500&150&&23&&&Setúbal
+ATI Radeon 4500&150&&10&&&Faro
+ATI Radeon 4500&150&&10&&&Lisboa
+ATI Radeon 4500&150&&22&&&Porto
+ATI Radeon 3500&140&&13&&&Setúbal
+ATI Radeon 3500&140&&15&&&Faro
+Monitor Sony 24&230&&2&&&Faro
+Monitor Sony 26&330&&2&&&Horta
+Monitor Sony 24&230&&2&&&Porto
+Monitor Asus 24&280&&2&&&Faro
+Monitor Asus 24&230&&2&&&Lisboa
+Monitor Sony 22&230&&2&&&Faro
+Monitor Sony 24&230&&2&&&Setúbal
+Monitor Benq 22&230&&2&&&Faro
+Monitor Benq 24&240&&2&&&Braga
+Teclado Logitech&13&&2&&&Faro
+Teclado Logitech&13&&2&&&Setúbal
+Portatil ASUS&1300&&2&&&Setúbal
+Portatil ASUS&1100&&2&&&Porto
+Portatil ASUS&600&&2&&&Braga
+Portatil HP&700&&2&&&Setúbal
+Portatil ASUS&1300&&2&&&Coimbra
+Portatil ASUS&800&&2&&&Setúbal
+Portatil HP&1400&&2&&&Coimbra
+Portatil Dell&1300&&2&&&Setúbal
+Portatil ASUS&1350&&2&&&Faro
+Portatil Dell&1200&&2&&&Setúbal

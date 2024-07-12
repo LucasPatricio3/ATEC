@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\utilities\\pixelimagebuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\utilities\\pixelimagebuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\utilities\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\utilities\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\utilities\\vector2i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\utilities\\vector2i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\utilities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\utilities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\turnbattleproject\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\turnbattleproject\\turnbattleproject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9716FCCA-C2D7-43FB-932E-0800F98A2F2E}|TurnBattleProject\\TurnBattleProject.csproj|solutionrelative:turnbattleproject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector2i.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Vector2i.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Utilities\\Vector2i.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Vector2i.cs",
+              "RelativeToolTip": "TurnBattleProject\\Utilities\\Vector2i.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:37:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Properties\\Resources.resx",
+              "RelativeToolTip": "TurnBattleProject\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-12T17:15:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PixelImageButon.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\PixelImageButon.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Utilities\\PixelImageButon.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\PixelImageButon.cs",
+              "RelativeToolTip": "TurnBattleProject\\Utilities\\PixelImageButon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:48:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartySelectionMenu.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Menus\\PartySelectionMenu.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Utilities\\Menus\\PartySelectionMenu.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Menus\\PartySelectionMenu.cs",
+              "RelativeToolTip": "TurnBattleProject\\Utilities\\Menus\\PartySelectionMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:42:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Menu.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Utilities\\Menu.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Utilities\\Menu.cs",
+              "RelativeToolTip": "TurnBattleProject\\Utilities\\Menu.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:20:09.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Window.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Window.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Window.cs",
+              "RelativeToolTip": "TurnBattleProject\\Window.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:33:40.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Window.cs",
+              "RelativeDocumentMoniker": "TurnBattleProject\\Window.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\Window.cs [Design]",
+              "RelativeToolTip": "TurnBattleProject\\Window.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:33:25.388Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

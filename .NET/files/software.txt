@@ -1,0 +1,18 @@
+Microsoft Office 2007&Microsoft&2007&10
+Microsoft Office 2010&Microsoft&2010&100
+Microsoft Office 2019&Microsoft&2018&70
+Microsoft Office 2016&Microsoft&2015&45
+Microsoft Office 365&Microsoft&2024&125
+Symantec Essencials&Symantec&2016&150
+Adobe CS Master Colletion&Adobe&2018&15
+Notepad++&Don Ho&2020&100
+Edge&Microsoft&2020&130
+Firefox&Mozilla&2012&100
+Teamviewer 15&Teamviewer&2017&130
+OpenVPN&Open&2015&70
+Skype for Business&Microsoft&2019&100
+Visual Studio 2017&Microsoft&2016&20
+Visual Studio 2019&Microsoft&2019&20
+SQL Server 2019&Microsoft&2020&2
+Filezila&Mozzila&2015&3
+Visual Studio 2022&Microsoft&2024&2
