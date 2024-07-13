@@ -1,15 +1,17 @@
 using System.Windows.Forms;
+using TurnBattleProject.Menus;
 using TurnBattleProject.Utilities;
-using TurnBattleProject.Utilities.Menus;
 
 namespace TurnBattleProject
 {
     public partial class Window : Form
     {
+        public static Window Instance;
         public static Menu[] menus;
         public Window()
         {
             InitializeComponent();
+            Instance = this;
 
             //Sets size of the form to Screen size
             Screen screen = Screen.FromPoint(Cursor.Position);

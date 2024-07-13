@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnBattleProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38894a8f2549ee3fceb8956ee2e6311996908fd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b809a2a07fc8756263e5dc84dd707262fad13060")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnBattleProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnBattleProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

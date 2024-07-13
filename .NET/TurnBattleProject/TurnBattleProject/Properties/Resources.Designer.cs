@@ -73,9 +73,9 @@ namespace TurnBattleProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap Char_Base_Sheet_24x24 {
+        public static System.Drawing.Bitmap Char_Base {
             get {
-                object obj = ResourceManager.GetObject("Char_Base_Sheet_24x24", resourceCulture);
+                object obj = ResourceManager.GetObject("Char_Base", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
