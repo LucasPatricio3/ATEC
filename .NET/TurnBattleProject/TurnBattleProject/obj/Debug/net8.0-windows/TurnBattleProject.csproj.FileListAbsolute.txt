@@ -37,3 +37,4 @@ C:\Users\silva\Desktop\ATEC\.NET\TurnBattleProject\TurnBattleProject\obj\Debug\n
 C:\Users\silva\Desktop\ATEC\.NET\TurnBattleProject\TurnBattleProject\obj\Debug\net8.0-windows\TurnBattleProject.genruntimeconfig.cache
 C:\Users\silva\Desktop\ATEC\.NET\TurnBattleProject\TurnBattleProject\obj\Debug\net8.0-windows\ref\TurnBattleProject.dll
 C:\Users\silva\Desktop\ATEC\.NET\TurnBattleProject\TurnBattleProject\obj\Debug\net8.0-windows\TurnBattleProject.Utilities.PixelImage.resources
+C:\Users\silva\Documents\GitHub\ATEC\.NET\TurnBattleProject\TurnBattleProject\obj\Debug\net8.0-windows\TurnBattleProject.Utilities.PixelImage.resources

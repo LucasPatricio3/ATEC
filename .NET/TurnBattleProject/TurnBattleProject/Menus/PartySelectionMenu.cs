@@ -17,8 +17,11 @@ namespace TurnBattleProject.Menus
                 Properties.Resources.SelectPartyHover,
                 Properties.Resources.SelectPartyPress);
 
-            var Character1 = AddMenuItem<PixelImage>(new Vector2i(6, 18), new Vector2i(4, 8));
-            Character1.SetImage(Properties.Resources.Char_Base);
+            var Character1 = AddMenuItem<PixelImageButon>(new Vector2i(6, 18), new Vector2i(4, 8));
+            Character1.MapBitmaps(
+    Properties.Resources.Char_Base,
+    Properties.Resources.Char_Base,
+    Properties.Resources.Char_Base); Character1.Image = (Properties.Resources.Char_Base);
             var Character1Panel = AddMenuItem<PictureBox>(new Vector2i(6, 14), new Vector2i(8, 20));
             Character1Panel.BackColor = Color.Red;
 

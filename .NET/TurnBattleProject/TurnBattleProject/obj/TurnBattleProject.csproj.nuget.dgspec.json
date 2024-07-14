@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj": {}
+    "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj": {
+    "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj",
+        "projectUniqueName": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj",
         "projectName": "TurnBattleProject",
-        "projectPath": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj",
+        "projectPath": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\TurnBattleProject.csproj",
         "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\obj\\",
+        "outputPath": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\TurnBattleProject\\TurnBattleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
