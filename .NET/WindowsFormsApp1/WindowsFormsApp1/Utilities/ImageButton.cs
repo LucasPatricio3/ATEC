@@ -23,6 +23,8 @@ namespace TurnBasedBattlerProject.Utilities
 
             this.FlatStyle = FlatStyle.Flat;
             this.FlatAppearance.BorderSize = 0;
+            this.TabStop = false;
+
             this.MouseEnter += delegate (object sender, EventArgs e) { SetBackground(onHoverState); };
             this.MouseLeave += delegate (object sender, EventArgs e) { SetBackground(defaultState); };
             this.MouseClick += delegate (object sender, MouseEventArgs e) { SetBackground(pressedState); };
@@ -46,5 +48,7 @@ namespace TurnBasedBattlerProject.Utilities
             }
             this.Image = background;
         }
+
+        public override void NotifyDefault(bool value) { }
     }
 }

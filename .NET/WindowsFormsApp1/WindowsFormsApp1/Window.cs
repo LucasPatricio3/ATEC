@@ -10,15 +10,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using TurnBasedBattlerProject.Menus;
-using static System.Net.Mime.MediaTypeNames;
+using TurnBasedBattlerProject.Utilities;
 
 namespace TurnBasedBattlerProject
 {
     public partial class Window : Form
     {
         public static Graphics graphics;
-
+        public static PointF resizeConst;
         public static Window instance;
+
+        private GameMenu currentMenu;
 
         public static int cellWidth;
         public static int cellHeight;
@@ -26,13 +28,23 @@ namespace TurnBasedBattlerProject
         public Window()
         {
             InitializeComponent();
+        }
+
+        private void Window_Load(object sender, EventArgs e)
+        {
             instance = this;
 
             //Applies Resolution to App
             instance.Size = Screen.PrimaryScreen.Bounds.Size;
 
-            cellWidth = instance.Size.Width/32;
-            cellHeight = instance.Size.Height/18;
+            resizeConst = new PointF(instance.Width / 320, instance.Height / 180);
+
+            cellWidth = instance.Size.Width / 32;
+            cellHeight = instance.Size.Height / 18;
+
+            PartySelectionMenu menu = new PartySelectionMenu();
+            currentMenu = menu;
+            currentMenu.InitializeMenuControls();
 
             BackColor = Color.CadetBlue;
 
@@ -45,8 +57,7 @@ namespace TurnBasedBattlerProject
             graphics.PixelOffsetMode = PixelOffsetMode.Half;
             graphics.InterpolationMode = InterpolationMode.NearestNeighbor;
 
-            PartySelectionMenu menu = new PartySelectionMenu();
-            menu.InitializeMenu();
+            currentMenu.DrawObjects(currentMenu.gameObjects.ToArray());
         }
     }
 }

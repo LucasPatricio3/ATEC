@@ -63,11 +63,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Components\PlayableCharacter.cs" />
+    <Compile Include="Components\SpriteRenderer.cs" />
     <Compile Include="Menus\PartySelectionMenu.cs" />
+    <Compile Include="Utilities\GameComponent.cs" />
+    <Compile Include="Utilities\GameObject.cs" />
     <Compile Include="Utilities\ImageButton.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Utilities\Menu.cs" />
+    <Compile Include="Utilities\GameMenu.cs" />
     <Compile Include="Window.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,6 +135,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\FFXVI_Clive_RosfieldYoung_Adult-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MissingTextureBlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PartySelectionBackCard.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

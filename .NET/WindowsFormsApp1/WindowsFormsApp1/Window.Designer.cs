@@ -40,6 +40,7 @@
             this.Name = "Window";
             this.Text = "TurnBasedBattlerProject";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Window_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Window_Paint);
             this.ResumeLayout(false);
 
