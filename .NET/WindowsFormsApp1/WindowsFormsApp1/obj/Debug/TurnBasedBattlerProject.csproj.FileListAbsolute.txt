@@ -14,7 +14,6 @@ C:\Users\silva\Documents\GitHub\ATEC\.NET\TurnBasedBattlerProject\TurnBasedBattl
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TurnBasedBattlerProject.Window.resources
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TurnBasedBattlerProject.Properties.Resources.resources
@@ -28,3 +27,4 @@ C:\Users\silva\Desktop\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tur
 C:\Users\silva\Desktop\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TurnBasedBattlerProject.csproj.CoreCompileInputs.cache
 C:\Users\silva\Desktop\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\silva\Desktop\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\silva\Documents\GitHub\ATEC\.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TurnBasedBattlerProject.Game.resources

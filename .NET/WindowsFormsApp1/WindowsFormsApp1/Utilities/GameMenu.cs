@@ -21,12 +21,12 @@ namespace TurnBasedBattlerProject.Utilities
         {
             T control = new T();
             control.Location = new Point(
-                (int)((Window.instance.Width / 2) - (Window.cellWidth * scale.X / 2) + (Window.cellWidth * position.X)),
-                (int)((Window.instance.Height / 2) - (Window.cellHeight * scale.Y / 2) - (Window.cellWidth * position.Y))
+                (int)((Game.instance.Width / 2) - (Game.cellWidth * scale.X / 2) + (Game.cellWidth * position.X)),
+                (int)((Game.instance.Height / 2) - (Game.cellHeight * scale.Y / 2) - (Game.cellWidth * position.Y))
             );
             control.Size = new Size(
-                (int)(Window.cellWidth * scale.X),
-                (int)(Window.cellHeight * scale.Y)
+                (int)(Game.cellWidth * scale.X),
+                (int)(Game.cellHeight * scale.Y)
             );
             menuItems.Add(control);
             return control;
@@ -71,7 +71,7 @@ namespace TurnBasedBattlerProject.Utilities
         {
             foreach (Control control in menuItems)
             {
-                Window.instance.Controls.Add(control);
+                Game.instance.Controls.Add(control);
             }
 
             //TestPoint

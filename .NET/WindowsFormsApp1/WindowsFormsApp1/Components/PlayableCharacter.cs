@@ -12,6 +12,7 @@ namespace TurnBasedBattlerProject.Components
     {
         public string name;
         public CharacterClass characterClass;
+        //public
     }
 
     public enum CharacterClass

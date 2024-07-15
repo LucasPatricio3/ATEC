@@ -14,18 +14,18 @@ using TurnBasedBattlerProject.Utilities;
 
 namespace TurnBasedBattlerProject
 {
-    public partial class Window : Form
+    public partial class Game : Form
     {
         public static Graphics graphics;
         public static PointF resizeConst;
-        public static Window instance;
+        public static Game instance;
 
         private GameMenu currentMenu;
 
         public static int cellWidth;
         public static int cellHeight;
 
-        public Window()
+        public Game()
         {
             InitializeComponent();
         }
@@ -46,7 +46,7 @@ namespace TurnBasedBattlerProject
             currentMenu = menu;
             currentMenu.InitializeMenuControls();
 
-            BackColor = Color.CadetBlue;
+            BackColor = Pallete.GreenishBlue;
 
             Debug.WriteLine($"CW{cellWidth}, CH{cellHeight}");
         }

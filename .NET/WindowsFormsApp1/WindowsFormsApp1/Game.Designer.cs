@@ -1,6 +1,6 @@
 ﻿namespace TurnBasedBattlerProject
 {
-    partial class Window
+    partial class Game
     {
         /// <summary>
         /// Required designer variable.

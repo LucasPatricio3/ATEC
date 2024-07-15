@@ -22,13 +22,13 @@ namespace TurnBasedBattlerProject.Components
             PointF position = ObjRef.position;
             PointF scale = ObjRef.scale;
 
-            var background = new Bitmap((int)(Window.cellWidth * scale.X), (int)(Window.cellHeight * scale.Y));
-            Window.graphics.DrawImage(
+            var background = new Bitmap((int)(Game.cellWidth * scale.X), (int)(Game.cellHeight * scale.Y));
+            Game.graphics.DrawImage(
                 this.image,
-                (Window.instance.Width / 2) - (image.Width * scale.X / 2 * Window.resizeConst.X) + (Window.cellWidth * position.X),
-                (Window.instance.Height / 2) - (image.Height * scale.Y / 2 * Window.resizeConst.Y) - (Window.cellHeight * position.Y),
-                image.Width * scale.X * Window.resizeConst.X,
-                image.Height * scale.Y * Window.resizeConst.Y   
+                (Game.instance.Width / 2) - (image.Width * scale.X / 2 * Game.resizeConst.X) + (Game.cellWidth * position.X),
+                (Game.instance.Height / 2) - (image.Height * scale.Y / 2 * Game.resizeConst.Y) - (Game.cellHeight * position.Y),
+                image.Width * scale.X * Game.resizeConst.X,
+                image.Height * scale.Y * Game.resizeConst.Y   
             );
         }
     }
