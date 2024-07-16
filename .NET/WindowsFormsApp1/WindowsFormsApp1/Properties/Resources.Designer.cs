@@ -93,6 +93,16 @@ namespace TurnBasedBattlerProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap mageIcon {
+            get {
+                object obj = ResourceManager.GetObject("mageIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap MissingTextureBlock {
             get {
                 object obj = ResourceManager.GetObject("MissingTextureBlock", resourceCulture);
@@ -106,6 +116,46 @@ namespace TurnBasedBattlerProject.Properties {
         public static System.Drawing.Bitmap PartySelectionBackCard {
             get {
                 object obj = ResourceManager.GetObject("PartySelectionBackCard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap priestIcon {
+            get {
+                object obj = ResourceManager.GetObject("priestIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap RefreshButton {
+            get {
+                object obj = ResourceManager.GetObject("RefreshButton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap RefreshButtonHover {
+            get {
+                object obj = ResourceManager.GetObject("RefreshButtonHover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap RefreshButtonPress {
+            get {
+                object obj = ResourceManager.GetObject("RefreshButtonPress", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +186,16 @@ namespace TurnBasedBattlerProject.Properties {
         public static System.Drawing.Bitmap SelectPartyPress {
             get {
                 object obj = ResourceManager.GetObject("SelectPartyPress", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap warriorIcon {
+            get {
+                object obj = ResourceManager.GetObject("warriorIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

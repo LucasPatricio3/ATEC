@@ -127,11 +127,26 @@
   <data name="FFXVI_Clive_RosfieldYoung_Adult_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FFXVI_Clive_RosfieldYoung_Adult-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mageIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mageIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MissingTextureBlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MissingTextureBlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PartySelectionBackCard" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PartySelectionBackCard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="priestIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\priestIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RefreshButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RefreshButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RefreshButtonHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RefreshButtonHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RefreshButtonPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RefreshButtonPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SelectParty" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SelectParty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -141,5 +156,8 @@
   </data>
   <data name="SelectPartyPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SelectPartyPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="warriorIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\warriorIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

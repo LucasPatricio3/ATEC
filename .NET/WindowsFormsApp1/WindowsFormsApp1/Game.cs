@@ -6,6 +6,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -20,10 +21,16 @@ namespace TurnBasedBattlerProject
         public static PointF resizeConst;
         public static Game instance;
 
-        private GameMenu currentMenu;
+        public static GameMenu currentMenu;
 
         public static int cellWidth;
         public static int cellHeight;
+
+        public static Random random = new Random();
+
+        public GameObject character1;
+        public GameObject character2;
+        public GameObject character3;
 
         public Game()
         {
@@ -42,22 +49,32 @@ namespace TurnBasedBattlerProject
             cellWidth = instance.Size.Width / 32;
             cellHeight = instance.Size.Height / 18;
 
-            PartySelectionMenu menu = new PartySelectionMenu();
-            currentMenu = menu;
-            currentMenu.InitializeMenuControls();
-
             BackColor = Pallete.GreenishBlue;
+
+            ChangeMenu<PartySelectionMenu>();
 
             Debug.WriteLine($"CW{cellWidth}, CH{cellHeight}");
         }
 
-        private void Window_Paint(object sender, PaintEventArgs e)
+        public void OnPaint(object sender, PaintEventArgs e)
         {
             graphics = e.Graphics;
             graphics.PixelOffsetMode = PixelOffsetMode.Half;
             graphics.InterpolationMode = InterpolationMode.NearestNeighbor;
 
             currentMenu.DrawObjects(currentMenu.gameObjects.ToArray());
+        }
+
+        public static void ChangeMenu<T>() where T : GameMenu, new()
+        {
+            T menu = new T();
+            currentMenu = menu;
+            currentMenu.InitializeMenuControls();
+        }
+
+        public void SaveCharacters(GameObject character1, GameObject character2, GameObject character3)
+        {
+            this.character1 = character1;
         }
     }
 }

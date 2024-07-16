@@ -63,7 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Components\PlayableCharacter.cs" />
+    <Compile Include="Components\CharacterData.cs" />
     <Compile Include="Components\SpriteRenderer.cs" />
     <Compile Include="Menus\PartySelectionMenu.cs" />
     <Compile Include="Utilities\GameComponent.cs" />
@@ -142,6 +142,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\PartySelectionBackCard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mageIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\priestIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warriorIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Prefabs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshButtonHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshButtonPress.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

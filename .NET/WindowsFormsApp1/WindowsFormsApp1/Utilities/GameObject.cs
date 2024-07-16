@@ -14,8 +14,8 @@ namespace TurnBasedBattlerProject.Utilities
         public PointF position;
         public PointF scale;
         public GameObject parent = null;
-        private List<GameObject> children;
         private List<GameComponent> components = new List<GameComponent>();
+        private List<GameObject> children;
 
         public GameObject()
         {
@@ -26,6 +26,23 @@ namespace TurnBasedBattlerProject.Utilities
             this.name = name;
             this.position = position;
             this.scale = scale;
+        }
+
+        public void MoveTo(PointF position)
+        {
+            if (children != null)
+            {
+                foreach (GameObject child in children)
+                {
+                    PointF newPositionForChild = new PointF(
+                        child.position.X + position.X - this.position.X,
+                        child.position.Y + position.Y - this.position.Y
+                        );
+                    child.MoveTo(newPositionForChild);
+                }
+            }
+            this.position = position;
+            Game.instance.Refresh();
         }
 
         public GameObject AddChild(GameObject child)
@@ -48,6 +65,15 @@ namespace TurnBasedBattlerProject.Utilities
             }
             return children[index];
         }
+        public void RemoveChild(GameObject child)
+        {
+            if (children == null)
+            {
+                Debug.WriteLine("WARNING: Object has no Children!");
+                return;
+            }
+            children.Remove(child);
+        }
         public GameObject[] GetChildren()
         {
             if (children != null)
@@ -58,6 +84,19 @@ namespace TurnBasedBattlerProject.Utilities
             {
                 return null;
             }
+        }
+        public void Destroy()
+        {
+            if (parent != null) parent.RemoveChild(this);
+            name = null;
+            position = PointF.Empty;
+            scale = PointF.Empty;
+            components.Clear();
+            components = null;
+            if (children != null) children.Clear();
+            children = null;
+            if (Game.currentMenu.gameObjects.Contains(this)) Game.currentMenu.gameObjects.Remove(this);
+            Game.instance.Refresh();
         }
 
         public T AddComponent<T>() where T : GameComponent, new()

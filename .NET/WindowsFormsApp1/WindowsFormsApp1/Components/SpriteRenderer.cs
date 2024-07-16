@@ -11,12 +11,7 @@ namespace TurnBasedBattlerProject.Components
 {
     internal class SpriteRenderer : GameComponent
     {
-        private Image image = Resources.MissingTextureBlock;
-
-        public void SetImage(Image image)
-        {
-            this.image = image;
-        }
+        public Bitmap image = Resources.MissingTextureBlock;
         public void DrawImage()
         {
             PointF position = ObjRef.position;

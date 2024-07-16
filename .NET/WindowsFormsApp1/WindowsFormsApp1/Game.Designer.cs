@@ -30,18 +30,18 @@
         {
             this.SuspendLayout();
             // 
-            // Window
+            // Game
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(320, 180);
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Window";
+            this.Name = "Game";
             this.Text = "TurnBasedBattlerProject";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Window_Load);
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Window_Paint);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.OnPaint);
             this.ResumeLayout(false);
 
         }

@@ -27,7 +27,8 @@ namespace TurnBasedBattlerProject.Utilities
 
             this.MouseEnter += delegate (object sender, EventArgs e) { SetBackground(onHoverState); };
             this.MouseLeave += delegate (object sender, EventArgs e) { SetBackground(defaultState); };
-            this.MouseClick += delegate (object sender, MouseEventArgs e) { SetBackground(pressedState); };
+            this.MouseDown += delegate (object sender, MouseEventArgs e) { SetBackground(pressedState); };
+            this.MouseUp += delegate (object sender, MouseEventArgs e) { SetBackground(defaultState); };
         }
 
         internal void MapBitmaps(Bitmap defaultState, Bitmap onHoverState, Bitmap pressedState)
