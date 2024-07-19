@@ -65,7 +65,16 @@
   <ItemGroup>
     <Compile Include="Components\CharacterData.cs" />
     <Compile Include="Components\SpriteRenderer.cs" />
+    <Compile Include="Menus\BattleMenu.cs" />
     <Compile Include="Menus\PartySelectionMenu.cs" />
+    <Compile Include="Skills\ArcaneAmplificationSkill.cs" />
+    <Compile Include="Skills\BlockSkill.cs" />
+    <Compile Include="Skills\DivineHealSkill.cs" />
+    <Compile Include="Skills\FireBallSkill.cs" />
+    <Compile Include="Skills\HealSkill.cs" />
+    <Compile Include="Skills\StrikeSkill.cs" />
+    <Compile Include="Skills\TwinSlashSkill.cs" />
+    <Compile Include="Utilities\BattleSys.cs" />
     <Compile Include="Utilities\GameComponent.cs" />
     <Compile Include="Utilities\GameObject.cs" />
     <Compile Include="Utilities\ImageButton.cs">
@@ -81,6 +90,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\Skill.cs" />
+    <Compile Include="Utilities\TargetSelector.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -163,6 +174,96 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\RefreshButtonPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evilKnight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MageOutfit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PriestOutfit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarriorOutfit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hair9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActionBar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StrikeSkillIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StrikeSkillIconHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StrikeSkillIconPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealSkillIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealSkillIconHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealSkillIconPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DivineHealSkillIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DivineHealSkillIconHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DivineHealSkillIconPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlockSkillIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlockSkillIconHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlockSkillIconPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwinStrikeSkillIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwinStrikeSkillIconHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwinStrikeSkillIconPress.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

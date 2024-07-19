@@ -45,6 +45,18 @@ namespace TurnBasedBattlerProject.Utilities
             gameObjects.Add(gameObject);
             return gameObject;
         }
+
+        protected GameObject AddObject(GameObject gameObject)
+        {
+            if (FindObject(gameObject.name) != null)
+            {
+                Debug.WriteLine($"WARNING: GameObject({gameObject.name}) already exists in this Menu!");
+                return null;
+            }
+            gameObjects.Add(gameObject);
+            return gameObject;
+        }
+
         public GameObject FindObject(string name)
         {
             foreach (GameObject gObj in gameObjects)
@@ -69,6 +81,7 @@ namespace TurnBasedBattlerProject.Utilities
         }
         public void InitializeMenuControls()
         {
+            Game.instance.Controls.Clear();
             foreach (Control control in menuItems)
             {
                 Game.instance.Controls.Add(control);

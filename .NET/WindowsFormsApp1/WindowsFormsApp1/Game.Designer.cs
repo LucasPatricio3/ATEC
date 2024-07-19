@@ -36,12 +36,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(320, 180);
             this.Cursor = System.Windows.Forms.Cursors.Default;
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Game";
             this.Text = "TurnBasedBattlerProject";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Window_Load);
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.OnPaint);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Game_Paint);
             this.ResumeLayout(false);
 
         }

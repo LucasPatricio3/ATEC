@@ -17,12 +17,13 @@ namespace TurnBasedBattlerProject.Utilities
 
         public ImageButon()
         {
-            this.defaultState = Properties.Resources.BasicBlock;
-            this.onHoverState = Properties.Resources.BasicBlock;
-            this.pressedState = Properties.Resources.BasicBlock;
+            this.defaultState = Properties.Resources.MissingTextureBlock;
+            this.onHoverState = Properties.Resources.MissingTextureBlock;
+            this.pressedState = Properties.Resources.MissingTextureBlock;
 
             this.FlatStyle = FlatStyle.Flat;
             this.FlatAppearance.BorderSize = 0;
+            this.TabStop = true;
             this.TabStop = false;
 
             this.MouseEnter += delegate (object sender, EventArgs e) { SetBackground(onHoverState); };

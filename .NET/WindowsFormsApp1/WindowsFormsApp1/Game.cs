@@ -54,27 +54,29 @@ namespace TurnBasedBattlerProject
             ChangeMenu<PartySelectionMenu>();
 
             Debug.WriteLine($"CW{cellWidth}, CH{cellHeight}");
+        } 
+        public static void ChangeMenu<T>() where T : GameMenu, new()
+        {
+            T menu = new T();
+            currentMenu = menu;
+            currentMenu.InitializeMenuControls();
+            instance.Refresh();
         }
 
-        public void OnPaint(object sender, PaintEventArgs e)
+        public void SaveCharacters(GameObject character1, GameObject character2, GameObject character3)
+        {
+            this.character1 = character1;
+            this.character2 = character2;
+            this.character3 = character3;
+        }
+
+        private void Game_Paint(object sender, PaintEventArgs e)
         {
             graphics = e.Graphics;
             graphics.PixelOffsetMode = PixelOffsetMode.Half;
             graphics.InterpolationMode = InterpolationMode.NearestNeighbor;
 
             currentMenu.DrawObjects(currentMenu.gameObjects.ToArray());
-        }
-
-        public static void ChangeMenu<T>() where T : GameMenu, new()
-        {
-            T menu = new T();
-            currentMenu = menu;
-            currentMenu.InitializeMenuControls();
-        }
-
-        public void SaveCharacters(GameObject character1, GameObject character2, GameObject character3)
-        {
-            this.character1 = character1;
         }
     }
 }

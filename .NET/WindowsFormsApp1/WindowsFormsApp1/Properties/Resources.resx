@@ -118,17 +118,83 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ActionBar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActionBar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BasicBlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BasicBlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlockSkillIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlockSkillIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlockSkillIconHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlockSkillIconHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlockSkillIconPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlockSkillIconPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Char_Base_Sheet_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Char-Base-Sheet-24x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="DivineHealSkillIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DivineHealSkillIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DivineHealSkillIconHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DivineHealSkillIconHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DivineHealSkillIconPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DivineHealSkillIconPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="evilKnight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\evilKnight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="FFXVI_Clive_RosfieldYoung_Adult_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FFXVI_Clive_RosfieldYoung_Adult-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Hair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hair9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HealSkillIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HealSkillIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HealSkillIconHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HealSkillIconHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HealSkillIconPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HealSkillIconPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="mageIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mageIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MageOutfit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MageOutfit1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MissingTextureBlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MissingTextureBlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -138,6 +204,9 @@
   </data>
   <data name="priestIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\priestIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PriestOutfit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PriestOutfit1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RefreshButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\RefreshButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,7 +226,28 @@
   <data name="SelectPartyPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SelectPartyPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="StrikeSkillIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrikeSkillIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrikeSkillIconHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrikeSkillIconHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrikeSkillIconPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrikeSkillIconPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwinStrikeSkillIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TwinStrikeSkillIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwinStrikeSkillIconHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TwinStrikeSkillIconHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwinStrikeSkillIconPress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TwinStrikeSkillIconPress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="warriorIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\warriorIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WarriorOutfit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WarriorOutfit1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

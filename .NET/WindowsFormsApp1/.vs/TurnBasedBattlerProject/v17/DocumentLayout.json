@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\utilities\\battlesys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\battlesys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\desktop\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\components\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\components\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\components\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\utilities\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\menus\\partyselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\desktop\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\utilities\\imagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\imagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\utilities\\targetselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\targetselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\desktop\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\components\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\components\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\skills\\divinehealskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\skills\\divinehealskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\utilities\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\skills\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\skills\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\utilities\\gamecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\utilities\\gamecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\skills\\arcaneamplificationskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\skills\\arcaneamplificationskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\desktop\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|c:\\users\\silva\\documents\\github\\atec\\.net\\windowsformsapp1\\windowsformsapp1\\skills\\twinslashskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\skills\\twinslashskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\windowsformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{0662C405-D8D9-4610-AE4C-22ED1BBD4C1D}|WindowsFormsApp1\\TurnBasedBattlerProject.csproj|solutionrelative:windowsformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -46,120 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpriteRenderer.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\SpriteRenderer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Components\\SpriteRenderer.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\SpriteRenderer.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Components\\SpriteRenderer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "DocumentIndex": 4,
+              "Title": "DivineHealSkill.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\DivineHealSkill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Skills\\DivineHealSkill.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\DivineHealSkill.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Skills\\DivineHealSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T12:32:00.05Z",
+              "WhenOpened": "2024-07-19T17:03:05.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImageButton.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\ImageButton.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\ImageButton.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\ImageButton.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\ImageButton.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "ArcaneAmplificationSkill.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\ArcaneAmplificationSkill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Skills\\ArcaneAmplificationSkill.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\ArcaneAmplificationSkill.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Skills\\ArcaneAmplificationSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T10:57:42.336Z",
+              "WhenOpened": "2024-07-19T16:43:05.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FireBallSkill.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\FireBallSkill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Skills\\FireBallSkill.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\FireBallSkill.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Skills\\FireBallSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:42:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TwinSlashSkill.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\TwinSlashSkill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Skills\\TwinSlashSkill.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Skills\\TwinSlashSkill.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Skills\\TwinSlashSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:42:15.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleSys.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\BattleSys.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\BattleSys.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\BattleSys.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\BattleSys.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:00:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TargetSelector.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\TargetSelector.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\TargetSelector.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\TargetSelector.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\TargetSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:26:30.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\Resources.resx",
               "RelativeToolTip": "WindowsFormsApp1\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-07-16T10:55:27.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameMenu.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameMenu.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\GameMenu.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameMenu.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\GameMenu.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAswEUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:06:09.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameComponent.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameComponent.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\GameComponent.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameComponent.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\GameComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T20:31:35.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameObject.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Utilities\\GameObject.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Utilities\\GameObject.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Utilities\\GameObject.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBEAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T20:23:40.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PartySelectionMenu.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAqwC4AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:00:14.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Game.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Game.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Game.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Game.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAQwEwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:31:39.828Z",
+              "WhenOpened": "2024-07-18T23:25:15.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PartySelectionMenu.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Menus\\PartySelectionMenu.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwFAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:54:42.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CharacterData.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\CharacterData.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\CharacterData.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Components\\CharacterData.cs",
-              "ToolTip": "C:\\Users\\silva\\Desktop\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\CharacterData.cs",
+              "ToolTip": "C:\\Users\\silva\\Documents\\GitHub\\ATEC\\.NET\\WindowsFormsApp1\\WindowsFormsApp1\\Components\\CharacterData.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Components\\CharacterData.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvwsAAAABAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T01:25:33.675Z",
               "EditorCaption": ""

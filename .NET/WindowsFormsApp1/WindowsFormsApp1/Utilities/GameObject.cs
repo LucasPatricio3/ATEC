@@ -17,10 +17,7 @@ namespace TurnBasedBattlerProject.Utilities
         private List<GameComponent> components = new List<GameComponent>();
         private List<GameObject> children;
 
-        public GameObject()
-        {
-            
-        }
+        public GameObject(){}
         public GameObject(string name, PointF position, PointF scale)
         {
             this.name = name;
@@ -42,7 +39,6 @@ namespace TurnBasedBattlerProject.Utilities
                 }
             }
             this.position = position;
-            Game.instance.Refresh();
         }
 
         public GameObject AddChild(GameObject child)

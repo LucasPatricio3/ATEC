@@ -9,7 +9,7 @@ using TurnBasedBattlerProject.Utilities;
 
 namespace TurnBasedBattlerProject.Components
 {
-    internal class SpriteRenderer : GameComponent
+    public class SpriteRenderer : GameComponent
     {
         public Bitmap image = Resources.MissingTextureBlock;
         public void DrawImage()
@@ -25,6 +25,11 @@ namespace TurnBasedBattlerProject.Components
                 image.Width * scale.X * Game.resizeConst.X,
                 image.Height * scale.Y * Game.resizeConst.Y   
             );
+        }
+
+        public void Flip()
+        {
+            image.RotateFlip(RotateFlipType.Rotate180FlipY);
         }
     }
 }
